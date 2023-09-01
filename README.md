@@ -2,7 +2,7 @@
 
 Welcome to the repository for the implementation of the paper "Modeling and Predicting Spatio-temporal Dynamics of PM2.5 Concentrations Through Time-evolving Covariance Models" by Ghulam A. Qadir and Ying Sun.
 
-The paper is available on [arXiv](https://arxiv.org/abs/2202.12121).
+The paper is accecpted for publication in the Journal: Statistica Sinica on [Accepted Version](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0064_na.pdf).
 
 ## Overview
 
